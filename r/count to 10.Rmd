@@ -1,0 +1,23 @@
+---
+title: "Count to 10"
+author: "Joana"
+date: "2025-02-12"
+output: html_document
+---
+
+
+## Practice Assignment 1
+
+After creating an *r script* with a script that prints all the integers between 1 and 10 to screen, i was asked to
+
+> *Create an R Markdown file with a few introductory markdown comments and the cells with the code*
+
+
+**The code from the R script:**
+```{r code}
+for (i in 1:10){
+  print (i)
+}
+```
+
+
